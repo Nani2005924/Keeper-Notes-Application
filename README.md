@@ -6,6 +6,9 @@ A simple and user-friendly notes application built using React.js, JavaScript, H
 
 * Add new notes
 * Display saved notes
+* Edit existing notes
+* Delete notes
+* Save notes for easy access
 * Simple and clean user interface
 * Easy-to-use notes management
 
